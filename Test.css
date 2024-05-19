@@ -99,8 +99,8 @@ main {
     cursor: pointer;
 }
 .circle:hover {
-    background-color: darkblue;
-    color: white;
+    background-color: darkblue !important;
+    color: white !important;
 }
 .check {
     visibility: hidden;

@@ -28,7 +28,11 @@ main {
     gap: 10px;
     z-index: 1;
     width: 700px;
-    height: 180px;
+    height: 182px;
+    padding-bottom: 4px;
+    padding-top: 16px;
+    border: 1px solid lightgray;
+    /*box-shadow: 1px 1px gray;*/
 }
 .content {
     display: flex;
